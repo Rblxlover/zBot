@@ -10,4 +10,4 @@ zBot is a revolutionary **free cross-platform replay bot** developed by [fig](ht
 If you encounter any bugs while using zBot or if you'd like to open a support ticket for any reason, you can contact us in the [fig's shack discord server](https://discord.gg/fgWfJdrvdz).
 
 ## Pro Version Information
-The free version of zBot fully encompasses all of zBot's recording and playback features, with the inclusion of a watermark while the bot is in use. To remove zBot's visible watermark, purchase a product key [online](https://zbot.figmentcoding.me/) and enter the key received in your email in the zBot mod settings.
+The free version of zBot fully encompasses all of zBot's recording and playback features, with the inclusion of a watermark while the bot is in use. To remove zBot's visible watermark, purchase a product key [online](https://zbot.figmentcoding.me/) and enter the key received 
